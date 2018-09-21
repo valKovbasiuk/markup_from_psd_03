@@ -1,8 +1,6 @@
 [Click me for browser preview](https://mateacademy-fe-study.github.io/wild-tigers.github.io/)
 
 
-# WILD-TIGERS
-
 ## How to **install** project
 
 1. `git clone https://github.com/MateAcademy-FE-study/wild-tigers.github.io.git`
